@@ -4,3 +4,6 @@ A small script written in c to install Sublime text 4 on any linux distro just b
 
 # Compile
 just run ```make``` command
+
+# Run
+```./script```
